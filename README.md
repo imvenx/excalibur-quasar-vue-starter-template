@@ -1,6 +1,8 @@
 # Quasar App (excalibur-quasar-vue-starter-template)
 
-A Quasar Project
+![alt text](image.png)
+
+A Quasar + Excalibur starter template
 
 ## Install the dependencies
 
