@@ -1,4 +1,4 @@
-# Quasar App (excalibur-quasar-vue-starter-template)
+# Quasar App
 
 ![alt text](image.png)
 
